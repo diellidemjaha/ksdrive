@@ -50,6 +50,7 @@ KS Drive is a web application that provides real-time weather information for ci
 
 ```bash
 cd ks-drive
+cd react-frontend
 ```
 
 3. Install dependencies:
@@ -63,6 +64,7 @@ Usage
 4.Start the development server:
 
 ```bash
+cd..
 cd laravel-backend
 php artisan serve
 cd..
