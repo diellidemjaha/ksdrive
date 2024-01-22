@@ -44,4 +44,4 @@ KS Drive is a web application that provides real-time weather information for ci
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ks-drive.git
+   git clone https://github.com/diellidemjaha/ksdrive.git
