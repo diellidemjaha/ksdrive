@@ -1,8 +1,8 @@
 # KS Drive
 
-![KS Drive Screenshot 1](path/to/your/scrnshot1.jpg)
-![KS Drive Screenshot 2](path/to/your/scrnshot2.jpg)
-![KS Drive Screenshot 3](path/to/your/scrnshot3.jpg)
+![KS Drive Screenshot 1](path/to/your/scrnshot1.png)
+![KS Drive Screenshot 2](path/to/your/scrnshot2.png)
+![KS Drive Screenshot 3](path/to/your/scrnshot3.png)
 
 ## Table of Contents
 
