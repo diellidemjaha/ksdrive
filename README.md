@@ -45,3 +45,48 @@ KS Drive is a web application that provides real-time weather information for ci
 
    ```bash
    git clone https://github.com/diellidemjaha/ksdrive.git
+
+2. Navigate to the project directory:
+
+```bash
+cd ks-drive
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+Usage
+
+4.Start the development server:
+
+```bash
+cd laravel-backend
+php artisan serve
+cd..
+cd react-frontend
+npm start
+```
+Open your browser and visit http://localhost:3000.
+
+Explore the weather dashboard, city-specific details, and safety tips.
+
+Technologies Used
+Laravel
+React
+React Router
+Bootstrap
+Chart.js
+Axios
+
+##Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
+
+##License
+This project is licensed under the MIT License.
+
+
+
+
