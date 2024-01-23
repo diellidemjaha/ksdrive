@@ -61,16 +61,19 @@ npm install
 
 Usage
 
-4.Start the development server:
+4.Start the frontend development server:
 
 ```bash
-cd..
-cd laravel-backend
-php artisan serve
-cd..
-cd react-frontend
 npm start
 ```
+
+5. Start the backend server on another terminal:
+
+```bash
+cd laravel-backend
+php artisan serve
+```
+
 Open your browser and visit http://localhost:3000.
 
 Explore the weather dashboard, city-specific details, and safety tips.
