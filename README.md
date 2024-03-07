@@ -20,7 +20,7 @@
 
 ## About
 
-KS Drive is a web application that provides real-time weather information for cities across Kosovo. The project aims to enhance safety and driving awareness by offering insights into temperature, visibility, wind conditions, and city-specific details.
+KS Drive is a web application that provides real-time weather information for cities across Kosovo. The project aims to enhance safety and driving awareness by offering insights into temperature, visibility, wind conditions, and city-specific details.The app uses stack of PHP laravel for backend, MySQL for database, React with bootstrap for frontend, API REST for endpoints and data fetching from the server and Chart-js library for data projection.
 
 ## Features
 
