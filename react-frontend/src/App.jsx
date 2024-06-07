@@ -1,5 +1,4 @@
 import { useState } from 'react'
-// import './App.css'
 import WeatherChart from './WeatherComponent'
 import Navbar from './NavBar'
 import Home from './Home'
@@ -17,7 +16,6 @@ function App() {
           <Route path="/" exact element={<Home />} />
           <Route path="/cities" element={<WeatherChart />} />
           <Route path="/about-us" element={<AboutUs />} />
-          {/* <Route path="/about-us" element={AboutUs} /> */}
         </Routes>
       </div>
     </Router>
