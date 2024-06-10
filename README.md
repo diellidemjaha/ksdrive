@@ -39,8 +39,10 @@ KS Drive is a web application that provides real-time weather information for ci
 - **Responsive Design:**
   - User-friendly interface that adapts to various devices.
 
-## Acknowledgements
-OpenWeatherMap for providing the weather data API. https://www.openweathermap.org/
+
+> [!IMPORTANT]  
+> Acknowledgements
+> OpenWeatherMap for providing the weather data API. https://www.openweathermap.org/
 
 
 ## Installation
@@ -90,10 +92,10 @@ Bootstrap
 Chart.js
 Axios
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
